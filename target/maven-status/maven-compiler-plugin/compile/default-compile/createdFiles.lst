@@ -1,0 +1,8 @@
+ro/eduardharis/springcloudstream/message/Greetings$GreetingsBuilder.class
+ro/eduardharis/springcloudstream/stream/GreetingsStreams.class
+ro/eduardharis/springcloudstream/consumer/GreetingsListener.class
+ro/eduardharis/springcloudstream/configuration/StreamsConfig.class
+ro/eduardharis/springcloudstream/SpringCloudStreamApplication.class
+ro/eduardharis/springcloudstream/controller/GreetingsController.class
+ro/eduardharis/springcloudstream/message/Greetings.class
+ro/eduardharis/springcloudstream/service/GreetingsService.class

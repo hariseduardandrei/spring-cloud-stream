@@ -1,0 +1,7 @@
+/home/eduard/prj/spring-cloud-stream/src/main/java/ro/eduardharis/springcloudstream/message/Greetings.java
+/home/eduard/prj/spring-cloud-stream/src/main/java/ro/eduardharis/springcloudstream/configuration/StreamsConfig.java
+/home/eduard/prj/spring-cloud-stream/src/main/java/ro/eduardharis/springcloudstream/stream/GreetingsStreams.java
+/home/eduard/prj/spring-cloud-stream/src/main/java/ro/eduardharis/springcloudstream/service/GreetingsService.java
+/home/eduard/prj/spring-cloud-stream/src/main/java/ro/eduardharis/springcloudstream/SpringCloudStreamApplication.java
+/home/eduard/prj/spring-cloud-stream/src/main/java/ro/eduardharis/springcloudstream/controller/GreetingsController.java
+/home/eduard/prj/spring-cloud-stream/src/main/java/ro/eduardharis/springcloudstream/consumer/GreetingsListener.java
